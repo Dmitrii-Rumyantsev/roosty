@@ -1,5 +1,9 @@
-## Next.js App Router Course - Starter
+## Next.js App Router 
+!!! НИЧЕГО НЕ ДЕЛАЕМ В ВЕТКАХ MAIN И MASTER
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+Для проекта необходим Node.js, для его установки можно воспользоваться https://nodejs.org/en/download
+
+Чтобы запустить проект необходимы следующие команды
+1. npm run build для сборки проекта
+2. npm run dev для его запуска
