@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif !important;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa !important;
+  color: #333 !important;
+}
+
+.btn-primary {
+  background-color: #007bff !important;
+  color: white !important;
+}
+
+.btn-secondary {
+  background-color: #6c757d !important;
+  color: white !important;
+}
+
+footer {
+  margin-top: auto;
+  padding: 10px;
+  background: #fff;
+  border-top: 1px solid #ddd;
+  text-align: center;
+}
